@@ -1,2 +1,2 @@
 # Jsum
-My own method for Integration by recursion
+My own algorithm for Integration by recursively zooming into the function curve 
