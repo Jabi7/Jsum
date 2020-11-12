@@ -1,3 +1,5 @@
+########## The Jsum algorithm ###########
+
 def jsum(f, a, b, t = 0, tol = 0.00001):
     m  = (a+b)/2
     s =  (f(a) - t + f(m) - t) * abs(b-a)/2
